@@ -147,7 +147,7 @@ By using it you can block direct pushes to the `master` branch and make sure tha
 I'm also aware this article is a bit chaotic but you have to forgive me for that. Maybe you have noticed (for sure you did) that I didn't use a translator for the whole text so the Engrish can be strong.
 Anyway I hope it will improve with time and number of written articles.
 
-Any suggestions? Questions? Fell free to leave them in comments below, I'll be glad to read them!
+Any suggestions? Questions? Feel free to leave them in comments below, I'll be glad to read them!
 
 ### Useful resources
 
