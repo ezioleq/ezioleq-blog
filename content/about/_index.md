@@ -15,5 +15,3 @@ I'm a programmer, currently working as a Junior C# Developer and still learning 
 This blog is a place where I can share my thoughts and ideas. I hope you'll find something interesting here. And I wish you won't die of cringe while reading my posts.
 
 *This description will be replaced with a better one when I'll have better ideas.*
-
-You can always visit my main, offical™ page at [ezioleq.com](https://ezioleq.com)
