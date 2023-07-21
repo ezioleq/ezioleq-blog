@@ -1,0 +1,38 @@
+baseURL = 'https://ezioleq.com/'
+languageCode = 'en-us'
+title = 'ezioverse'
+theme = 'mini'
+
+hasCJKLanguage = true
+defaultContentLanguage ='en'
+paginate = 3
+
+disqusShortname = 'ezioleq'
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    noHl = false
+    style = 'github-dark'
+    tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+author = 'ezioleq'
+bio = 'thoughts that escaped my head'
+description = "ezioverse is my brand new personal blog, where I write posts"
+
+enableComments = true
+showToc = true
+showPowerBy = false
