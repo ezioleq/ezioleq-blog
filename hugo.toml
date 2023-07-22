@@ -5,7 +5,7 @@ theme = 'mini-mod'
 
 hasCJKLanguage = true
 defaultContentLanguage ='en'
-paginate = 3
+paginate = 10
 
 disqusShortname = 'ezioleq'
 
