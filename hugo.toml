@@ -1,7 +1,7 @@
 baseURL = 'https://ezioleq.com/'
 languageCode = 'en-us'
 title = 'ezioverse'
-theme = 'mini'
+theme = 'mini-mod'
 
 hasCJKLanguage = true
 defaultContentLanguage ='en'
