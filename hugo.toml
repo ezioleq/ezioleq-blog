@@ -32,6 +32,7 @@ disqusShortname = 'ezioleq'
 author = 'ezioleq'
 bio = 'thoughts that escaped my head'
 description = "ezioverse is my brand new personal blog, where I write posts"
+images = ['https://ezioleq.com/images/avatar.png']
 
 enableComments = true
 showToc = true
