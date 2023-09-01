@@ -34,6 +34,7 @@ bio = 'thoughts that escaped my head'
 description = "Take a deep dive into my mind. This is My Space and My Universe. This is my dry as dust personal blog where I write posts... Take a look inside!"
 image = 'https://ezioleq.com/images/avatar.png'
 
+enableRSS = true
 enableComments = true
 showToc = true
 showPowerBy = false
