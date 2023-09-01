@@ -11,10 +11,7 @@ Zero posts for last month. What have I been doing? A very short summary of my Au
 
 ## Working
 
-Not gonna lie, huge part of my summer vacations is just work. Now, on my summer break I have a lot of time and naturally I'm using a chunk of it to make some more money. After magical two months of free time I'll be back at school for another year and lose hopes for doing anything other than going to school. Going there really drains my batteries and I can't stay at work as long as I wished for.
-
-On the other hand ignoring the Back to School™ moment I'm really glad for this time. I learned a lot this summer and I know *this* knowledge will be useful in the future (as well as now).
-
+Not gonna lie, huge part of my summer vacations is just work. Now, on my summer break I have a lot of time and naturally I'm using a chunk of it to make some more money. I'm really glad for this time at work because I learned a lot this summer and I know *this* knowledge will be useful in the future (as well as now).
 
 ## Chilling
 
