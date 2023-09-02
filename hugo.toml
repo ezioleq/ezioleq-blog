@@ -38,3 +38,7 @@ enableRSS = true
 enableComments = true
 showToc = true
 showPowerBy = false
+
+[social]
+github = 'https://github.com/ezioleq'
+twitter = 'https://twitter.com/ezioleq'
