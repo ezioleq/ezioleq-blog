@@ -64,7 +64,7 @@ Our workflows on GitHub have to know a few things to be able to copy the files o
 We can provide those secrets to the workflows by using something called ... **Secrets and variables** in our GitHub's repository settings.
 It's pretty straightforward so I won't dwell on this.
 
-![GitHub secrets list](/blog-automation-github/github-secrets.png)
+![GitHub secrets list](github-secrets.png)
 
 As you can see I added a variable to all of those *things* I mentioned earlier. Now we can use them in our scripts and nobody will see their uncovered values.
 
