@@ -3,7 +3,7 @@ author: "ezioleq"
 title: "Your AI girlfriend is closer than you think"
 description: "Are you lonely? I can fix that. Just lend me your compute power."
 date: 2023-09-12T18:06:14+02:00
-draft: true
+draft: false
 tags: ["random", "ai"]
 ---
 Are you lonely? I can fix that. Just lend me your compute power.
