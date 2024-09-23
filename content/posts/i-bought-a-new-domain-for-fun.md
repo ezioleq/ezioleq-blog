@@ -3,7 +3,7 @@ author: "ezioleq"
 title: "I bought a new domain for fun"
 description: "I saw an interesting TLD so I bought a domain with it but for what I'm going to use it?"
 date: 2023-09-03T16:39:22+02:00
-draft: false
+draft: true
 tags: ["random"]
 ---
 I saw an interesting [TLD][tld] so I bought a domain with it but for what I'm going to use it?
